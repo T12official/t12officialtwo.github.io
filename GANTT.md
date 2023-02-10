@@ -3,7 +3,7 @@ title: gantt
 ---
 
 <div align="center">
-  <a href="https://github.com/team13eng1/piazza-panic/">
+  <a href="https://github.com/T12official/t12-piazza-panic">
     <img src="assets/Capture.PNG" alt="Logo" width="400" height="400">
   </a>
 
@@ -12,10 +12,10 @@ title: gantt
   <p align="center">
     A LibGDX game for ENG1
     <br />
-    <a href="https://github.com/team13eng1/piazza-panic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/T12official/t12-piazza-panic"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://team13eng1.github.io/">Go Back</a>
+    <a href="https://t12official.github.io/t12squared/">Go Back</a>
   </p>
 </div>
 

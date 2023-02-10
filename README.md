@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/team13eng1/piazza-panic/">
+  <a href="https://github.com/T12official/t12-piazza-panic">T12official/t12-piazza-panic
     <img src="./assets/Capture.PNG" alt="Logo" width="400" height="400">
   </a>
 
@@ -9,10 +9,10 @@
     A LibGDX game for ENG1
     T12 Edition
     <br />
-    <a href="https://github.com/team13eng1/piazza-panic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/T12official/t12-piazza-panic"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://team13eng1.github.io/">View Website</a>
+    <a href="https://t12official.github.io/t12squared/">View Website</a>
   </p>
 </div>
 
@@ -28,11 +28,11 @@
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
-  <a href="https://github.com/team13eng1/piazza-panic"><strong>github.com</strong></a>
+  <a href="https://github.com/T12official/t12-piazza-panic"><strong>github.com</strong></a>
 <p>
 <h3 align="center">Website</h3>
 <p align="center">
-  <a href="https://team13eng1.github.io/"><strong>this</strong></a>
+  <a href="https://t12official.github.io/t12squared/"><strong>this</strong></a>
 </p>
 <h3 align="center">Requirements</h3>
 <p align="center">
