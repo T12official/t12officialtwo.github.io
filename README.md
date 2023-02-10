@@ -7,6 +7,7 @@
 
   <p align="center">
     A LibGDX game for ENG1
+    T12 Edition
     <br />
     <a href="https://github.com/team13eng1/piazza-panic"><strong>Explore the docs »</strong></a>
     <br />
