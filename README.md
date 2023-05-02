@@ -130,6 +130,8 @@
 </p>
 
 <h3 align="center">Sprint Updates</h3>
-<img src="./files/Sprint Images/week1.png" alt="Week 1 Sprint">
+<h3 align="left">Assesment 2 Deliverables</h3>
+<img src="./files/Sprint Images/week1.png" alt="This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base.">
+<h3 align="left">Assesment 2 Deliverables</h3>
 
 
