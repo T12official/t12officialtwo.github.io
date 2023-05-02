@@ -93,6 +93,7 @@
   <a href="./files/assessment/Implementation Part B.pdf"><strong> Implementation Part B </strong></a>
 </p>
 <h1 align="center">Assessment 2 Files</h1>
+
 <h3 align="center">Edited Assesment 1 Documents</h3>
 <p align="center">
   <a href="./files/assessment/Architecture V2.pdf"><strong> Requirements </strong></a>
@@ -102,4 +103,28 @@
   <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Method Selection and Planning </strong></a>
   •
   <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Risk Assesment </strong></a>
+</p>
+
+<h3 align="center">Assesment 2 Documentation</h3>
+<p align="center">
+  <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Change Report </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Implementation </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Intergration </strong></a>
+</p>
+
+<h3 align="center">Assesment 2 Deliverables</h3>
+<p align="center">
+  <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Change Report </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Implementation </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Intergration </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Jar File </strong></a>
 </p>
