@@ -181,8 +181,17 @@
 <h5> •Finished up implementation</h5>
 <h5> •Continued on testing</h5>
 
+<h3 align="center">Sum Week 1</h3>
+<img src="./files/Sprint Images/Sum week1.png">
 
-
-
+<h5 align="left">During this week we:</h5>
+<h5> •First group meeting after holiday</h5>
+<h5> •Decided on a different Scrum method:Usually we would meet at the end of the week and discuss what we had done and what we werent able to do, allowing other to help/takeover, so we switched to having scrum meetings at the beginning of the week instead, this allowed us to focus on multiple things at once instead of each person taking on one component, the reason fpr this was because we realised we were low on time and thought it would be a more efficient method</h5>
+<h5> •Started the Change report</h5>
+<h5> •Started the continuous integration report</h5>
+<h5> •Started to look and change the initial documentation for this project</h5>
+<h5> •Continued working on testing</h5>
+<h5> •Realised our game was buggy so dedicated a few members to Bug fixes</h5>
+<h5> •Had our sixth scrum meeting</h5>
 
 
