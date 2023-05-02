@@ -195,12 +195,17 @@
 
 <h3 align="center">Testing Documentation</h3>
 
+<ul>
+<li>
 <a href="https://docs.google.com/spreadsheets/d/1EwfuHxtE9jooOKKnxfdnuOOdHd9KquPaLK3O43PzDeE/edit#gid=0"><strong> Testing Report </strong></a>
-
+</li>
+<li>
 <a href="https://docs.google.com/spreadsheets/d/1Wrap_qEvIVJdIlnGKWC-R0k1UNpkJ1BQ3_DlavbgkJY/edit#gid=0"><strong> Testing Matrix </strong></a>
-
-<a href="./files/htmlReport/index.html"><strong> Testing Matrix </strong></a>
-
+</li>
+<li>
+<a href="./files/htmlReport/index.html"><strong> Testing Coverage Report </strong></a>
+</li>
+</ul>
 
 
 
