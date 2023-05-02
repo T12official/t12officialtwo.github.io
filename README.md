@@ -107,7 +107,7 @@
 
 <h3 align="center">Assessment 2 Documentation</h3>
 <p align="center">
-  <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
+  <a href="./files/assessment2/Testing.pdf"><strong> Testing </strong></a>
   •
   <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Change Report </strong></a>
   •
@@ -118,7 +118,7 @@
 
 <h3 align="center">Assessment 2 Deliverables</h3>
 <p align="center">
-  <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
+  <a href="./files/assessment2/Testing.pdf"><strong> Testing </strong></a>
   •
   <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Change Report </strong></a>
   •
