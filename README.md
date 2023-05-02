@@ -130,8 +130,19 @@
 </p>
 
 <h3 align="center">Sprint Updates</h3>
+
 <h3 align="center">Week 1</h3>
 <img src="./files/Sprint Images/week1.png">
 <h5 align="center">This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base.</h5>
+
+<h3 align="center">Week 2</h3>
+<img src="./files/Sprint Images/week2.png">
+<h5 align="center">During this week we:
+Forked Github so that we could now work on our ew project
+Got all necessary resources for assessment 2
+Looked over the new code and new documentation
+Assigned new tasks and finished deciding on how to split up the implementation
+Started on implementation
+Had our second scrum meeting</h5>
 
 
