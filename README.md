@@ -137,13 +137,52 @@
 
 <h3 align="center">Week 2</h3>
 <img src="./files/Sprint Images/week2.png">
-<p style="line-height:1">
-  <h5 align="left">During this week we:</h5>
-  <h5> •Forked Github so that we could now work on our new project</h5>
-  <h5> •Got all necessary resources for assessment 2</h5>
-  <h5> •Looked over the new code and new documentation</h5>
-  <h5> •Assigned new tasks and finished deciding on how to split up the implementation</h5>
-  <h5> •Started on implementation</h5>
-  <h5> •Had our second scrum meeting</h5>
-</p>
+
+<h5 align="left">During this week we:</h5>
+<h5> •Forked Github so that we could now work on our new project</h5>
+<h5> •Got all necessary resources for assessment 2</h5>
+<h5> •Looked over the new code and new documentation</h5>
+<h5> •Assigned new tasks and finished deciding on how to split up the implementation</h5>
+<h5> •Started on implementation</h5>
+<h5> •Had our second scrum meeting</h5>
+
+<h3 align="center">Week 3</h3>
+<img src="./files/Sprint Images/week3.png">
+
+<h5 align="left">During this week we:</h5>
+<h5> •Carried on with Implementation</h5>
+<h5> •Had our third scrum meeting</h5>
+
+
+<h3 align="center">Week 4</h3>
+<img src="./files/Sprint Images/week4.png">
+
+<h5 align="left">During this week we:</h5>
+<h5> •Started to look into testing</h5>
+<h5> •Decided on how to split up the testing</h5>
+<h5> •Carried on with implementation</h5>
+<h5> •Had our fourth scrum meeting</h5>
+
+<h3 align="center">Week 5</h3>
+<img src="./files/Sprint Images/week5.png">
+
+<h5 align="left">During this week we:</h5>
+<h5> •Started on the testing</h5>
+<h5> •Started on the implementation documentation</h5>
+<h5> •Decided what we should all do over the upcoming holiday</h5>
+<h5> •Continued on implementation</h5>
+<h5> •Had our fith scrum meeting</h5>
+
+
+<h3 align="center">Holiday</h3>
+<img src="./files/Sprint Images/Holiday.png">
+
+<h5 align="left">During this week we:</h5>
+<h5> •Finished up implementation</h5>
+<h5> •Continued on testing</h5>
+
+
+
+
+
 
