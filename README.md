@@ -129,8 +129,6 @@
   <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Jar File </strong></a>
 </p>
 
-<h5 style="line-height: 0.5;">This text has 0.5 line spacing</h5>
-
 <h3 align="center">Sprint Updates</h3>
 
 <h3 align="center">Week 1</h3>
