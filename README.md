@@ -133,11 +133,11 @@
 
 <h3 align="center">Week 1</h3>
 <img src="./files/Sprint Images/week1.png">
-<h5 align="center">This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base.</h5>
+<h5 align="center">This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base</h5>
 
 <h3 align="center">Week 2</h3>
 <img src="./files/Sprint Images/week2.png">
-
+<h5 style="line-height: 1.5;">This text has 1.5 line spacing</h5>
 <h5 align="left">During this week we:</h5>
 <h5> •Forked Github so that we could now work on our new project</h5>
 <h5> •Got all necessary resources for assessment 2</h5>
@@ -177,7 +177,7 @@
 <h3 align="center">Holiday</h3>
 <img src="./files/Sprint Images/Holiday.png">
 
-<h5 align="left">During this week we:</h5>
+<h5 align="left">During the holiday we:</h5>
 <h5> •Finished up implementation</h5>
 <h5> •Continued on testing</h5>
 
@@ -195,3 +195,20 @@
 <h5> •Had our sixth scrum meeting</h5>
 
 
+
+<h3 align="center">Sum Week 2</h3>
+<img src="./files/Sprint Images/Sum week2.png">
+
+<h5 align="left">During this week we:</h5>
+<h5> •Continued on our testing, Continuous integration and Bug fixes</h5>
+<h5> •Finished the change report</h5>
+<h5> •Had our seventh scrum meeting</h5>
+
+
+<h3 align="center">Hand In</h3>
+<img src="./files/Sprint Images/Hand in.png">
+
+<h5 align="left">During final days we:</h5>
+<h5> •Finished up our Bug fixes, Continuous Intergration and Testing</h5>
+<h5> •We also looked over all our documentation</h5>
+<h5> •Final scrum meeting to go over all our work and make sure we have everything</h5>
