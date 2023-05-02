@@ -137,7 +137,7 @@
 
 <h3 align="center">Week 2</h3>
 <img src="./files/Sprint Images/week2.png">
-<h5 style="line-height: 1.5;">This text has 1.5 line spacing</h5>
+<h5 style="line-height: 1;">This text has 1.5 line spacing</h5>
 <h5 align="left">During this week we:</h5>
 <h5> •Forked Github so that we could now work on our new project</h5>
 <h5> •Got all necessary resources for assessment 2</h5>
