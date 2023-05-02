@@ -132,6 +132,6 @@
 <h3 align="center">Sprint Updates</h3>
 <h3 align="center">Week 1</h3>
 <img src="./files/Sprint Images/week1.png">
-<h3 align="center">This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base.</h3>
+<h5 align="center">This was our first week back which we spent focusing on exams, so no work was done. We had a scrum meeting at the end of the week to touch base.</h5>
 
 
