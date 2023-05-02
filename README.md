@@ -131,7 +131,7 @@
 
 <h3 align="center">Testing Documentation</h3>
 
-<ul>
+<ul align="center">
 <li>
 <a href="https://docs.google.com/spreadsheets/d/1EwfuHxtE9jooOKKnxfdnuOOdHd9KquPaLK3O43PzDeE/edit#gid=0"><strong> Testing Report </strong></a>
 </li>
