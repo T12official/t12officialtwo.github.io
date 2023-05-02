@@ -94,5 +94,12 @@
 </p>
 <h1 align="center">Assessment 2 Files</h1>
 <h3 align="center">Edited Assesment 1 Documents</h3>
-
-
+<p align="center">
+  <a href="./files/assessment/Architecture V2.pdf"><strong> Requirements </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Architecture </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Method Selection and Planning </strong></a>
+  •
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Risk Assesment </strong></a>
+</p>
