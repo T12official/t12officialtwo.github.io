@@ -94,18 +94,18 @@
 </p>
 <h1 align="center">Assessment 2 Files</h1>
 
-<h3 align="center">Edited Assesment 1 Documents</h3>
+<h3 align="center">Edited Assessment 1 Documents</h3>
 <p align="center">
-  <a href="./files/assessment/Architecture V2.pdf"><strong> Requirements </strong></a>
+  <a href="./files/assessment2/Requirements assessment 2.pdf"><strong> Requirements </strong></a>
   •
   <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Architecture </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Method Selection and Planning </strong></a>
+  <a href="./files/assessment2/Method Selection and Planning (A2).pdf"><strong> Method Selection and Planning </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Risk Assesment </strong></a>
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Risk Assessment </strong></a>
 </p>
 
-<h3 align="center">Assesment 2 Documentation</h3>
+<h3 align="center">Assessment 2 Documentation</h3>
 <p align="center">
   <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
   •
@@ -113,10 +113,10 @@
   •
   <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Implementation </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Intergration </strong></a>
+  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Integration </strong></a>
 </p>
 
-<h3 align="center">Assesment 2 Deliverables</h3>
+<h3 align="center">Assessment 2 Deliverables</h3>
 <p align="center">
   <a href="./files/assessment/Architecture V2.pdf"><strong> Testing </strong></a>
   •
@@ -193,5 +193,14 @@
 <h5> •Continued working on testing</h5>
 <h5> •Realised our game was buggy so dedicated a few members to Bug fixes</h5>
 <h5> •Had our sixth scrum meeting</h5>
+
+<h3 align="center">Testing Documentation</h3>
+
+<a href="https://docs.google.com/spreadsheets/d/1EwfuHxtE9jooOKKnxfdnuOOdHd9KquPaLK3O43PzDeE/edit#gid=0"><strong> Testing Report </strong></a>
+
+<a href="https://docs.google.com/spreadsheets/d/1Wrap_qEvIVJdIlnGKWC-R0k1UNpkJ1BQ3_DlavbgkJY/edit#gid=0"><strong> Testing Matrix </strong></a>
+
+<a href="./files/htmlReport/index.html"><strong> Testing Matrix </strong></a>
+
 
 
