@@ -217,6 +217,6 @@
 <img src="./files/Sprint Images/Hand in.png">
 
 <h5 align="left">During final days we:</h5>
-<h5> •Finished up our Bug fixes, Continuous Intergration and Testing</h5>
+<h5> •Finished up our Bug fixes, Continuous Integration and Testing</h5>
 <h5> •We also looked over all our documentation</h5>
 <h5> •Final scrum meeting to go over all our work and make sure we have everything</h5>
