@@ -140,12 +140,12 @@
 <h3 align="center">Week 2</h3>
 <img src="./files/Sprint Images/week2.png">
 <h5 align="left">During this week we:</h5>
-<h5> •Forked Github so that we could now work on our new project</h5>
-<h5> •Got all necessary resources for assessment 2</h5>
-<h5> •Looked over the new code and new documentation</h5>
-<h5> •Assigned new tasks and finished deciding on how to split up the implementation</h5>
-<h5> •Started on implementation</h5>
-<h5> •Had our second scrum meeting</h5>
+<h5 style="line-height: 0.5;"> •Forked Github so that we could now work on our new project</h5>
+<h5 style="line-height: 0.5;"> •Got all necessary resources for assessment 2</h5>
+<h5 style="line-height: 0.5;"> •Looked over the new code and new documentation</h5>
+<h5 style="line-height: 0.5;"> •Assigned new tasks and finished deciding on how to split up the implementation</h5>
+<h5 style="line-height: 0.5;"> •Started on implementation</h5>
+<h5 style="line-height: 0.5;"> •Had our second scrum meeting</h5>
 
 <h3 align="center">Week 3</h3>
 <img src="./files/Sprint Images/week3.png">
