@@ -128,3 +128,8 @@
   •
   <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Jar File </strong></a>
 </p>
+
+<h3 align="center">Sprint Updates</h3>
+<img src="./files/Sprint Images/week1.png" alt="Week 1 Sprint">
+
+
