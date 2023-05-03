@@ -118,13 +118,13 @@
 
 <h3 align="center">Assessment 2 Deliverables</h3>
 <p align="center">
-  <a href="./files/assessment2/Testing.pdf"><strong> Testing </strong></a>
+  <a href="./files/assessment2/Test2.pdf"><strong> Testing </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v1.pdf"><strong> Change Report </strong></a>
+  <a href="./files/assessment2/Change2.pdf"><strong> Change Report </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v2.pdf"><strong> Implementation </strong></a>
+  <a href="./files/assessment2/Impl2.pdf"><strong> Implementation </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Intergration </strong></a>
+  <a href="./files/assessment2/CI2.pdf"><strong> Continuous Intergration </strong></a>
   •
   <a href="./files/assessment2/Piazza2.jar"><strong> Piazza2.jar </strong></a>
 </p>
