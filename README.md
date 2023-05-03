@@ -126,7 +126,7 @@
   •
   <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Continuous Intergration </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Jar File </strong></a>
+  <a href="./files/assessment2/Piazza2.jar"><strong> Piazza2.jar </strong></a>
 </p>
 
 <h3 align="center">Testing Documentation</h3>
