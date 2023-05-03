@@ -24,7 +24,6 @@
   •
   <a href="./files/info/eng1-team-assessment-1.pdf"><strong> assessment.pdf </strong></a>
 </p>
-<h1 align="center">Assessment 1 Files</h1>
 
 <h3 align="center">Version Control Repository</h3>
 <p align="center">
@@ -34,6 +33,7 @@
 <p align="center">
   <a href="https://t12official.github.io/t12squared/"><strong>this</strong></a>
 </p>
+<h1 align="center">Assessment 1 Files</h1>
 <h3 align="center">Requirements</h3>
 <p align="center">
   <a href="./files/assessment/Requirements v2.pdf"><strong>Requirements v2</strong></a>
