@@ -105,16 +105,6 @@
   <a href="./files/assessment2/Risk Assessment and Mitigation assessment 2 - Google Docs.pdf"><strong> Risk Assessment </strong></a>
 </p>
 
-<h3 align="center">Assessment 2 Documentation</h3>
-<p align="center">
-  <a href="./files/assessment2/Testing.pdf"><strong> Testing </strong></a>
-  •
-  <a href="./files/assessment2/Change2.pdf"><strong> Change Report </strong></a>
-  •
-  <a href="./files/assessment2/Impl2.pdf"><strong> Implementation </strong></a>
-  •
-  <a href="./files/assessment2/CI2.pdf"><strong> Continuous Integration </strong></a>
-</p>
 
 <h3 align="center">Assessment 2 Deliverables</h3>
 <p align="center">
