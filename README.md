@@ -102,7 +102,7 @@
   •
   <a href="./files/assessment2/Method Selection and Planning (A2).pdf"><strong> Method Selection and Planning </strong></a>
   •
-  <a href="./files/assessment/Sequence Diagram v3.pdf"><strong> Risk Assessment </strong></a>
+  <a href="./files/assessment2/Risk Assessment and Mitigation assessment 2 - Google Docs.pdf"><strong> Risk Assessment </strong></a>
 </p>
 
 <h3 align="center">Assessment 2 Documentation</h3>
