@@ -122,15 +122,18 @@
 <h3 align="center">Testing Documentation</h3>
 
 <ul align="center">
-<li>
-<a href="https://docs.google.com/spreadsheets/d/1EwfuHxtE9jooOKKnxfdnuOOdHd9KquPaLK3O43PzDeE/edit#gid=0"><strong> Testing Report </strong></a>
-</li>
-<li>
-<a href="https://docs.google.com/spreadsheets/d/1Wrap_qEvIVJdIlnGKWC-R0k1UNpkJ1BQ3_DlavbgkJY/edit#gid=0"><strong> Testing Matrix </strong></a>
-</li>
-<li>
-<a href="./files/htmlReport/index.html"><strong> Testing Coverage Report </strong></a>
-</li>
+  <li>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRluilpZFDu1WUa8XsLWKlGLeD_LKw2Ojwan77qiGVs1d65aYq24_8-HfmLJhISQOFGjl4vl15cLvHg/pubhtml?gid=0&single=true"><strong> Testing Report </strong></a>
+  </li>
+  <li>
+    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaZKILIKGEaCfXXT0CA0HyNz5lnnCGOAzPBh8X7ZLYzmnJn41yRRybgkR9rJnMYp4t52z1bWEpcGVF/pubhtml"><strong> Testing Matrix </strong></a>
+  </li>
+  <li>
+    <a href="https://docs.google.com/document/d/e/2PACX-1vTDAA0zbGXL-LlWVCSBgXWJtH7Gtq1Kc3n2qh6TA0dh_WkWcXkhKI_yt5wR-8-SkX16gdJNM0lwd5SL/pub"><strong>        Manual Tests </strong></a>
+  </li>
+  <li>
+  <a href="./files/htmlReport/index.html"><strong> Testing Coverage Report </strong></a>
+  </li>
 </ul>
 
 <h3 align="center">Sprint Updates</h3>
